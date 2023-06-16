@@ -1,2 +1,2 @@
-# repo_amindun
+# repo_aminudin
 repository github aminudin
